@@ -1,0 +1,22 @@
+csv_links:
+    df_final_demo : https://docs.google.com/spreadsheets/d/1V3TNfdz2_xWZBIGJ2HrTATiK5o2NBe0meWmGsY5W5fs/export?gid=1888831564&format=csv
+    df_final_experiment_clients : https://docs.google.com/spreadsheets/d/1V3TNfdz2_xWZBIGJ2HrTATiK5o2NBe0meWmGsY5W5fs/export?gid=28812129&format=csv
+    df_final_web_data_pt_1 : https://docs.google.com/spreadsheets/d/1V3TNfdz2_xWZBIGJ2HrTATiK5o2NBe0meWmGsY5W5fs/export?gid=1512444594&format=csv
+    df_final_web_data_pt_2 : https://docs.google.com/spreadsheets/d/1V3TNfdz2_xWZBIGJ2HrTATiK5o2NBe0meWmGsY5W5fs/export?gid=1594148686&format=csv
+
+raw_data:
+    client_prof : df_final_demo
+    experiment_roster : df_final_experiment_clients
+    pt1 : df_final_web_data_pt_1
+    pt2 : df_final_web_data_pt_2
+
+merged_data:
+    test_group : '../data/raw/merged/test_group.csv'
+    control_group : '../data/raw/merged/control_group.csv'
+    df_with_variation : '../data/raw/merged/df_with_variation.csv'
+
+cleaned_data:
+    summary_table : '../data/cleaned/summary_table.csv'
+    all_visit_steps : '../data/cleaned/all_visit_steps.csv'
+    average_time_per_step : '../data/cleaned/average_time_per_step'
+    average_time_per_login : '../data/cleaned/average_time_per_login'
