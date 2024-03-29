@@ -45,6 +45,7 @@ select
     , sum(case when process_step = 'start' then 1 else 0 end) as start_count
     , sum(case when process_step = 'step_1' then 1 else 0 end) as step_1_count
     , sum(case when process_step = 'step_2' then 1 else 0 end) as step_2_count
+    , sum(case when process_step = 'step_3' then 1 else 0 end) as step_3_count
     , sum(case when process_step = 'confirm' then 1 else 0 end) as confirm_count
     , variation
 from df_with_variation_clean

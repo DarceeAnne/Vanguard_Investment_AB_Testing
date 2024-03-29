@@ -1,0 +1,33 @@
+H1 Completion Rate
+Mann-Whitney U statistic: 302342574.5
+p-value: 2.6990245028400838e-28
+Reject the null hypothesis. There is a statistically significant difference between the two groups.
+
+H2 Error Rate
+Mann-Whitney U statistic: 304307009.0
+p-value: 1.4946693426463377e-20
+Reject the null hypothesis. There is a statistically significant difference between the two groups.
+
+H3 Bounce Rate
+Mann-Whitney U statistic: 332655637.5
+p-value: 2.232973744312736e-65
+Reject the null hypothesis. There is a statistically significant difference between the two groups.
+
+H4 Time Spent Per Step
+Mann-Whitney U statistic for start: 313132552.0
+P-value for start: 4.903966732003973e-205
+Reject the null hypothesis for start. There is a statistically significant difference between the two groups.
+
+Mann-Whitney U statistic for step_1: 229103212.0
+P-value for step_1: 9.48269747728733e-168
+Reject the null hypothesis for step_1. There is a statistically significant difference between the two groups.
+
+Mann-Whitney U statistic for step_2: 274921623.5
+P-value for step_2: 3.866296503948093e-05
+Reject the null hypothesis for step_2. There is a statistically significant difference between the two groups.
+
+Mann-Whitney U statistic for step_3: 293181441.5
+P-value for step_3: 1.4164471328878178e-63
+Reject the null hypothesis for step_3. There is a statistically significant difference between the two groups.
+
+Average       Above Average       Exceptional
