@@ -18,5 +18,6 @@ merged_data:
 cleaned_data:
     summary_table : '../data/cleaned/summary_table.csv'
     all_visit_steps : '../data/cleaned/all_visit_steps.csv'
-    average_time_per_step : '../data/cleaned/average_time_per_step'
-    average_time_per_login : '../data/cleaned/average_time_per_login'
+    average_time_per_step : '../data/cleaned/average_time_per_step.csv'
+    average_time_per_login : '../data/cleaned/average_time_per_login.csv'
+    average_time_groups : '../data/cleaned/average_time_groups.csv'
