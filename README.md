@@ -1,5 +1,9 @@
 # Vanguard A/B Test Project
 
+
+![Image Alt Text](https://github.com/DarceeAnne/Vanguard_Investment_AB_Testing/blob/main/images/intro.png)
+
+
 ## Project Overview
 For this project, we analyzed the results of an A/B test conducted by Vanguard, a leading investment management company in the US. The aim of the experiment was to evaluate the impact of a new digital interface design on client engagement and completion rates for a specific online process.
 
@@ -8,6 +12,9 @@ As part of the Customer Experience (CX) team at Vanguard, we were tasked with an
   - Control Group: Clients interacted with Vanguard's traditional online process.
   - Test Group: Clients experienced the new digital interface design.
 The goal was to determine if the new interface would lead to higher completion rates and improved user experience.
+
+![Image Alt Text](https://github.com/DarceeAnne/Vanguard_Investment_AB_Testing/raw/main/images/project%20intro.png)
+
 
 ## Results & Deliverables
 After extensive data analysis and hypothesis testing, we found compelling evidence to support the effectiveness of the new digital interface design. However, further improvements to the interface design will be needed to achieve the minimum 5% completion rate improvement threshold determined by Vangaurd. Our analysis points to specific areas for improvement.
@@ -21,3 +28,5 @@ Our key findings and deliverables include:
 
 ## Conclusion
 The Vanguard A/B Test Project showcases the power of data-driven decision-making in optimizing user experiences and driving business outcomes. By leveraging insights from the experiment, Vanguard can continue to enhance its digital offerings and better serve its clients' needs. We look forward to presenting our findings and recommendations to the Vanguard team.
+
+![Image Alt Text](https://github.com/DarceeAnne/Vanguard_Investment_AB_Testing/raw/main/images/credits.png)
